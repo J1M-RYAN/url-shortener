@@ -1,0 +1,11 @@
+h1,
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  color: blue;
+}
+h2 {
+  color: slateblue;
+}
